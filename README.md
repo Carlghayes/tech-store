@@ -1,2 +1,2 @@
 # tech-store
-Mockup Tech-store
+Single page mockup of tech-store using HTML & CSS
